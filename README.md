@@ -16,7 +16,7 @@ hobbies:
 ```
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://media.tenor.com/pf19SFYHd1IAAAAj/naruto-uzumaki.gif" height="65" />
-  <img src="https://i.pinimg.com/originals/ab/0f/af/ab0fafe8753a97c199a10b353ec6a8bb.gif" height="80" />
+  <img src="https://raw.githubusercontent.com/palnavneet/palnavneet/master/assets/naruto.gif" height="80" />
 </div>
 
 

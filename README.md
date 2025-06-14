@@ -15,4 +15,3 @@
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/)
 </div>
-![9d52e8dea3387f465b1150deb7166625](https://github.com/user-attachments/assets/61b905e9-e523-4e63-a323-eb28f68c38ca)

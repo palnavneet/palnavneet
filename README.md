@@ -14,8 +14,11 @@ hobbies:
   - Anime
   - Travel
 ```
-<img src="https://media.tenor.com/pf19SFYHd1IAAAAj/naruto-uzumaki.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://media.tenor.com/pf19SFYHd1IAAAAj/naruto-uzumaki.gif" height="65" />
+  <img src="https://i.pinimg.com/originals/ab/0f/af/ab0fafe8753a97c199a10b353ec6a8bb.gif" height="80" />
+</div>
+
+
+
 

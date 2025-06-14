@@ -14,7 +14,7 @@ hobbies:
   - Anime
   - Travel
 ```
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media.tenor.com/pf19SFYHd1IAAAAj/naruto-uzumaki.gif" height="40" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/)
